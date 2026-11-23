@@ -1,11 +1,11 @@
 {
     "schema_version":  2,
-    "updated_at":  1795425531779,
+    "updated_at":  1795425546256,
     "versions":  {
-                     "Backrooms Found Footage":  false,
+                     "Backrooms Found Footage":  true,
                      "DragonGamess":  true,
                      "EXTREME INFFECTION MC":  true,
-                     "Umbrella Game 2":  false,
+                     "Umbrella Game 2":  true,
                      "UmbrellaGame1":  true
                  },
     "unlock_at":  {
