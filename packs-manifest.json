@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "updated_at": 1795573629329,
+  "updated_at": 1795581623227,
   "packs": {
     "Backrooms Found Footage": {
       "archive": "dragon-pack-backrooms-found-footage.zip",
       "url": "https://github.com/MaestroDragon/Dragon-Launcher-Packs/releases/download/packs-2026-11-25/dragon-pack-backrooms-found-footage.zip",
       "size": 229477430,
-      "sha256": "01dd0e300f980140d9c6ed61fe5aeab88f8f9eadfcdd87cf54c032de10b2440e",
+      "sha256": "7e3bd2a38067b6fa527377ff5553c501883a7f9beaedeecb1d21a82bb38418f2",
       "mods_folder": "Backrooms Found Footage",
       "fancy_folder": null
     },
@@ -14,23 +14,23 @@
       "archive": "dragon-pack-extreme-inffection-mc.zip",
       "url": "https://github.com/MaestroDragon/Dragon-Launcher-Packs/releases/download/packs-2026-11-25/dragon-pack-extreme-inffection-mc.zip",
       "size": 195308884,
-      "sha256": "3f99b4d34ec7bc0c7213379f0520c503f6aa6979a519173011758c8bb79071e1",
+      "sha256": "e077655d70833b54e1a290f0f229a7b3433eca8290fc1510bb633baa7bf02b4e",
       "mods_folder": "EXTREME INFFECTION MC",
       "fancy_folder": null
     },
     "UmbrellaGame1": {
       "archive": "dragon-pack-umbrellagame1.zip",
       "url": "https://github.com/MaestroDragon/Dragon-Launcher-Packs/releases/download/packs-2026-11-25/dragon-pack-umbrellagame1.zip",
-      "size": 225958588,
-      "sha256": "59343e38bfdfdaad7f69896f0ac4e2c9e017e9c92d5b8ac011a1b6cdffd28c16",
+      "size": 226339694,
+      "sha256": "e212e57794d010e0ec91b2bf2194b14a9df50259ff94130e544119c1d3ce1fc9",
       "mods_folder": "UmbrellaGame1",
       "fancy_folder": "UmbrellaGame1"
     },
     "Umbrella Game 2": {
       "archive": "dragon-pack-umbrella-game-2.zip",
       "url": "https://github.com/MaestroDragon/Dragon-Launcher-Packs/releases/download/packs-2026-11-25/dragon-pack-umbrella-game-2.zip",
-      "size": 411339806,
-      "sha256": "8b8c36463f846527818512a50e2b203381e7976610790d63b292ec124ef0a91f",
+      "size": 361899326,
+      "sha256": "405ddd68518854cf9a6af5ca97ad82565564c82c14760fa35b091384e53fc320",
       "mods_folder": "UmbrellaGame2",
       "fancy_folder": "UmbrellaGame2"
     }
