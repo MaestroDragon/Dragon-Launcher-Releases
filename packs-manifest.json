@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "updated_at": 1795565362056,
+  "updated_at": 1795573629329,
   "packs": {
     "Backrooms Found Footage": {
       "archive": "dragon-pack-backrooms-found-footage.zip",
-      "url": "https://github.com/MaestroDragon/Dragon-Launcher-Releases/releases/download/packs-2026-11-25/dragon-pack-backrooms-found-footage.zip",
+      "url": "https://github.com/MaestroDragon/Dragon-Launcher-Packs/releases/download/packs-2026-11-25/dragon-pack-backrooms-found-footage.zip",
       "size": 229477430,
       "sha256": "01dd0e300f980140d9c6ed61fe5aeab88f8f9eadfcdd87cf54c032de10b2440e",
       "mods_folder": "Backrooms Found Footage",
@@ -12,7 +12,7 @@
     },
     "EXTREME INFFECTION MC": {
       "archive": "dragon-pack-extreme-inffection-mc.zip",
-      "url": "https://github.com/MaestroDragon/Dragon-Launcher-Releases/releases/download/packs-2026-11-25/dragon-pack-extreme-inffection-mc.zip",
+      "url": "https://github.com/MaestroDragon/Dragon-Launcher-Packs/releases/download/packs-2026-11-25/dragon-pack-extreme-inffection-mc.zip",
       "size": 195308884,
       "sha256": "3f99b4d34ec7bc0c7213379f0520c503f6aa6979a519173011758c8bb79071e1",
       "mods_folder": "EXTREME INFFECTION MC",
@@ -20,7 +20,7 @@
     },
     "UmbrellaGame1": {
       "archive": "dragon-pack-umbrellagame1.zip",
-      "url": "https://github.com/MaestroDragon/Dragon-Launcher-Releases/releases/download/packs-2026-11-25/dragon-pack-umbrellagame1.zip",
+      "url": "https://github.com/MaestroDragon/Dragon-Launcher-Packs/releases/download/packs-2026-11-25/dragon-pack-umbrellagame1.zip",
       "size": 225958588,
       "sha256": "59343e38bfdfdaad7f69896f0ac4e2c9e017e9c92d5b8ac011a1b6cdffd28c16",
       "mods_folder": "UmbrellaGame1",
@@ -28,9 +28,9 @@
     },
     "Umbrella Game 2": {
       "archive": "dragon-pack-umbrella-game-2.zip",
-      "url": "https://github.com/MaestroDragon/Dragon-Launcher-Releases/releases/download/packs-2026-11-25/dragon-pack-umbrella-game-2.zip",
-      "size": 411339807,
-      "sha256": "04932c36b6fbe96653d9afeb19917bddf49d93aeb5820e3d6e7e69ff6b4ff8fd",
+      "url": "https://github.com/MaestroDragon/Dragon-Launcher-Packs/releases/download/packs-2026-11-25/dragon-pack-umbrella-game-2.zip",
+      "size": 411339806,
+      "sha256": "8b8c36463f846527818512a50e2b203381e7976610790d63b292ec124ef0a91f",
       "mods_folder": "UmbrellaGame2",
       "fancy_folder": "UmbrellaGame2"
     }
